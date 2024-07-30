@@ -1,5 +1,13 @@
 # YouTube Downloader Changelog
 
+## [Fix Live Premiere video download] - 2024-07-30
+
+- Fix the live premiere video download issue
+
+## [Fix download failed] - 2024-07-16
+
+- Replace the `ytdl-core` with `@distube/ytdl-core` to fix the download failed issue
+
 ## [Update copy the video or audio file name with the video title] - 2024-07-05
 
 - Update copy the video or audio file name with the video title
