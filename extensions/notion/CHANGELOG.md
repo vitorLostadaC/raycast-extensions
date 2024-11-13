@@ -1,12 +1,13 @@
 # Notion Changelog
 
-## [Bug Fix] - 2024-7-30
+## [Refactor - No functional changes] - 2024-10-21
 
-- The relation property field now shows every page in the related database.
+- Move code around and derives more types from `@notionhq/client` (2024-07-03)
+- Standardize database and page property data formats (2024-10-21)
 
-## [Refactor] - 2024-07-03
+## [Quicklinks for Quick Capture Command] - 2024-08-20
 
-- Refactor code. No Functional changes.
+- Add a new action to create a Quicklink within the Quick Capture command.
 
 ## [Seperate property managment for quicklinks] - 2024-04-22
 
